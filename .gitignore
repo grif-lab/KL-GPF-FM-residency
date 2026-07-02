@@ -1,0 +1,13 @@
+# Raw DoE spreadsheets, tidied/QC'd data, FT inputs, and generated figures stay LOCAL.
+# The repo tracks code, the notebook, the README, and this file.
+raw data/
+tidy/
+ft/
+img/
+*.csv.gz
+
+# junk
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
